@@ -6,6 +6,7 @@ Uses a predetermined set of usable operations on two stacks:
 Rotating (or reverse rotating) a stack (by 1).
 
 Pushing 1 number from one stack to the other.
+
 Swapping the number at the top of a stack with the one under it. 
 
 Program can be used by passing list of numbers as argument, it will then display
