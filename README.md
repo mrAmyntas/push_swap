@@ -11,5 +11,6 @@ Program can be used by passing list of numbers as argument, it will then display
 all the neccesary operations to properly sort it.
 
 e.g. ./push_swap "1 3 2 4"
-amount of operations used easily found by running:
+
+Amount of operations used easily found by running:
 ./push_swap "1 2 4 3" | wc -l
